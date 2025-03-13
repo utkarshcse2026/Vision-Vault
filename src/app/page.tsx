@@ -12,7 +12,7 @@ export default function LandingPage() {
           <div className="flex h-16 items-center justify-between">
             <div className="flex items-center">
               <Link href="/" className="text-xl font-bold text-purple-600">
-                LocalCV
+                Vision Vault
               </Link>
               <nav className="hidden md:ml-8 md:flex md:gap-6">
                 <div className="relative group">
@@ -361,7 +361,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} LocalCV. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Aggarwal Industries . All rights reserved.</p>
           </div>
         </div>
       </footer>
